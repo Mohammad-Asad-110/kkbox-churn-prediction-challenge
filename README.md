@@ -32,7 +32,9 @@ supported by advertising and paid subscriptions.
 
 ### USeful Links
 https://www.kaggle.com/c/kkbox-churn-prediction-challenge
+
 https://arxiv.org/ftp/arxiv/papers/1802/1802.03396.pdf
+
 https://www.appier.com/blog/churn-prediction/
 
 ### Business objective and constraints
@@ -114,6 +116,9 @@ F1 Score
 
 ## USeful Blogs And Reference
 https://www.geeksforgeeks.org/python-working-with-date-and-time-using-pandas/
+
 https://www.kaggle.com/c/kkbox-churn-prediction-challenge/discussion/46078
+
 https://www.kaggle.com/jeru666/did-you-think-of-these-features
+
 https://arxiv.org/ftp/arxiv/papers/1802/1802.03396.pdf
