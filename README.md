@@ -90,7 +90,8 @@ The training and the test data are selected from users whose membership expire w
 8. num_unq: # of unique songs played
 9. total_secs: total seconds played
 
-* members.csv user information. Note that not every user in the dataset is available.
+* members.csv
+#### user information. Note that not every user in the dataset is available.
 
 1. msno
 2. city
@@ -100,26 +101,6 @@ The training and the test data are selected from users whose membership expire w
 6. registration_init_time: format %Y%m%d
 
 
-**Sample DataPoints**
-
-Train.csv
-
-    msno    is_churn
-0    waLDQMmcOu2jLDaV1ddDkgCrB/jl6sD66Xzs0Vqax1Y=    1
-1    QA7uiXy8vIbUSPOkCf9RwQ3FsT8jVq2OxDr8zqa7bRQ=    1
-2    fGwBva6hikQmTJzrbz/2Ezjm5Cth5jZUNvXigKK2AFA=    1
-3    mT5V8rEpa+8wuqi6x0DoVd3H5icMKkE9Prt49UlmK+4=    1
-4    XaPhtGLk/5UvvOYHcONTwsnH97P4eGECeq+BARGItRw=    1
-
-
-Members.csv
-
-                        msno                          city      bd     gender    registered_via    registration_init_time
-0    waLDQMmcOu2jLDaV1ddDkgCrB/jl6sD66Xzs0Vqax1Y=      18.0    36.0    female    9.0                   20050406.0
-1    QA7uiXy8vIbUSPOkCf9RwQ3FsT8jVq2OxDr8zqa7bRQ=      10.0    38.0    male      9.0                   20050407.0
-2    fGwBva6hikQmTJzrbz/2Ezjm5Cth5jZUNvXigKK2AFA=      11.0    27.0    female    9.0                   20051016.0
-3    mT5V8rEpa+8wuqi6x0DoVd3H5icMKkE9Prt49UlmK+4=      13.0    23.0    female    9.0                   20051102.0
-4    XaPhtGLk/5UvvOYHcONTwsnH97P4eGECeq+BARGItRw=      3.0     27.0    male      9.0                   20051228.0
 
 ## Posing as a Machine Learning Problem
 
